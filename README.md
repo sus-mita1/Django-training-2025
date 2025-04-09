@@ -1,0 +1,1 @@
+# Django-training-2025
